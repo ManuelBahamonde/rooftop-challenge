@@ -10,7 +10,6 @@ const check = async (blocks, token) => {
     let currentBlockIndex = 0;
     while (possibleBlocks.length > 1) {
         const currentBlock = possibleBlocks[currentBlockIndex];
-        reqCounter++;
 
         const areBlocksSequential = await API.checkBlocks(result[result.length - 1], currentBlock, token);
         if (areBlocksSequential) {
