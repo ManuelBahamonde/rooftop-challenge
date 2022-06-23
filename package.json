@@ -1,0 +1,25 @@
+{
+  "name": "rooftop-challenge",
+  "version": "1.0.0",
+  "description": "Technical Challenge required for Rooftop Academy",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ManuelBahamonde/rooftop-challenge.git"
+  },
+  "author": "Manuel Bahamonde",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ManuelBahamonde/rooftop-challenge/issues"
+  },
+  "homepage": "https://github.com/ManuelBahamonde/rooftop-challenge#readme",
+  "dependencies": {
+    "axios": "^0.27.2",
+    "dotenv": "^16.0.1",
+    "jest": "^28.1.1"
+  }
+}
