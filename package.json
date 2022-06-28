@@ -19,7 +19,6 @@
   "homepage": "https://github.com/ManuelBahamonde/rooftop-challenge#readme",
   "dependencies": {
     "axios": "^0.27.2",
-    "dotenv": "^16.0.1",
     "jest": "^28.1.1"
   }
 }
