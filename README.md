@@ -5,7 +5,6 @@ In order to solve this challenge, I used the following technologies
 * Vanilla Javascript (challenge logic)
 * Jest (testing)
 * Axios (simplifying API queries)
-* dotenv (following good practices to store private information)
 # Instructions
 * Download and install [NodeJS](https://nodejs.org/es/ "Title")
 * Install dependencies with `npm install`
